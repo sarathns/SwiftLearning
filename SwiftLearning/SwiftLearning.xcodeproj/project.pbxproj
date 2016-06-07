@@ -57,14 +57,30 @@
 		DF603AC01D04961B0041EA43 /* SwiftLearning */ = {
 			isa = PBXGroup;
 			children = (
-				DF603AC11D04961B0041EA43 /* AppDelegate.swift */,
-				DF603AC31D04961B0041EA43 /* ViewController.swift */,
-				DF603AC51D04961B0041EA43 /* Main.storyboard */,
-				DF603AC81D04961B0041EA43 /* Assets.xcassets */,
-				DF603ACA1D04961B0041EA43 /* LaunchScreen.storyboard */,
+				DF603AD51D049CAE0041EA43 /* Sources */,
+				DF603AD61D049CB60041EA43 /* Resources */,
 				DF603ACD1D04961B0041EA43 /* Info.plist */,
 			);
 			path = SwiftLearning;
+			sourceTree = "<group>";
+		};
+		DF603AD51D049CAE0041EA43 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				DF603AC11D04961B0041EA43 /* AppDelegate.swift */,
+				DF603AC31D04961B0041EA43 /* ViewController.swift */,
+			);
+			name = Sources;
+			sourceTree = "<group>";
+		};
+		DF603AD61D049CB60041EA43 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DF603AC81D04961B0041EA43 /* Assets.xcassets */,
+				DF603ACA1D04961B0041EA43 /* LaunchScreen.storyboard */,
+				DF603AC51D04961B0041EA43 /* Main.storyboard */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
